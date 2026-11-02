@@ -1,0 +1,44 @@
+
+[
+    {
+      "id": 1,
+      "name": "Samsung Galaxy M35",
+      "category": "Smartphone",
+      "price": 16999,
+      "brand": "Samsung",
+      "features": ["6000mAh battery", "AMOLED display", "5G"]
+    },
+    {
+      "id": 2,
+      "name": "Motorola Edge 50 Fusion",
+      "category": "Smartphone",
+      "price": 19999,
+      "brand": "Motorola",
+      "features": ["Curved display", "50MP camera", "5G"]
+    },
+    {
+      "id": 3,
+      "name": "Redmi Note 14",
+      "category": "Smartphone",
+      "price": 14999,
+      "brand": "Xiaomi",
+      "features": ["AMOLED display", "Good battery", "5G"]
+    },
+    {
+      "id": 4,
+      "name": "OnePlus Nord CE 4 Lite",
+      "category": "Smartphone",
+      "price": 17999,
+      "brand": "OnePlus",
+      "features": ["5500mAh battery", "AMOLED display", "Fast charging"]
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy A35",
+      "category": "Smartphone",
+      "price": 24999,
+      "brand": "Samsung",
+      "features": ["Super AMOLED", "50MP camera", "IP67 rating"]
+    }
+  ]
+  
